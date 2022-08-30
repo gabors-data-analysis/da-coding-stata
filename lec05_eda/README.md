@@ -58,3 +58,10 @@ In this homework you are invited to do some exploratory data analysis on the Hot
   - [histogram](https://www.stata.com/manuals/dby.pdf)
   - [density plot](https://www.stata.com/manuals16/rkdensity.pdf)
   - [box plot](https://www.stata.com/manuals16/g-2graphbox.pdf)
+
+
+## Further material
+  
+  - UCLA offers a module on the [if condition](https://stats.oarc.ucla.edu/stata/modules/using-if-with-stata-commands/).
+
+  - The [relevant part](https://sscc.wisc.edu/sscc/pubs/intro_stata/intro_stata5.htm) of SSCC's Stata for student course presents a description of some summary statistics commands.

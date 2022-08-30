@@ -40,6 +40,13 @@ Let us now put you into deep water and give you a homework assignment that may b
 
 ## Detailed online descriptions for the most important commands from the Stata website
 
-  - A nice intro about importing data can be found in Chapter 8 of Getting started with Stata: [here](https://www.stata.com/features/documentation/) 
   - Importing and exporting text-delimited files: [here](https://www.stata.com/manuals/dimportdelimited.pdf)
   - Importing and exporting Excel files: [here](https://www.stata.com/manuals/dimportexcel.pdf)
+
+## Further material
+
+  - Stata Press' Getting Started with Stata for Windows discusses the topic in [Chapter 8](https://www.stata.com/manuals/gsw8.pdf).
+
+  - The Stata User Guide discusses in details the importing of datasets in [Chapter 22](https://www.stata.com/manuals/u22.pdf).
+
+  - The [relevant part](https://sscc.wisc.edu/sscc/pubs/dws/data_wrangling_stata2.htm) of SSCC's Stata for student course gives a detailed description of reading in data.

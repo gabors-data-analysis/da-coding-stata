@@ -37,3 +37,7 @@ In this homework you are invited to do Exercis 5 on page 166.
 ## Detailed online descriptions for the most important commands from the Stata website
 
   - [ttest](https://www.stata.com/manuals/rttest.pdf) 
+
+## Further material
+
+  - The [relevant part](https://www.ssc.wisc.edu/sscc/pubs/sfs/sfs-ttest.htm) of SSCC's Stata for student course gives a detailed description of the topic with many examples.

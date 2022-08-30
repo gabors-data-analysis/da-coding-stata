@@ -34,3 +34,9 @@ Import the [worldbank-immunization-continents.csv](https://osf.io/58zrj) dataset
 ## Detailed online descriptions for the most important commands from the Stata website
 
   - [reshape](https://www.stata.com/manuals/dreshape.pdf) 
+
+## Further material
+
+  - The second part of the [3rd lesson](https://datacarpentry.org/stata-economics/03-transform-data/index.html) of Data Carpentry's Economics Lesson with Stata course offers a detailed description of the topic with many exercises.
+
+  - UCLA has two modules with many examples on reshaping data: [wide to long](https://stats.oarc.ucla.edu/stata/modules/reshaping-data-wide-to-long/) and [long to wide](https://stats.oarc.ucla.edu/stata/modules/reshaping-data-long-to-wide/).

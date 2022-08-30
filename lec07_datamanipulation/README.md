@@ -49,8 +49,16 @@ In this homework you are invited to use the WMS dataset, and do some data manipu
 
 ## Detailed online descriptions for the most important commands from the Stata website
 
-  - [An introduction to creating new variables](https://www.stata.com/manuals/gsw11.pdf) 
   - [generate](https://www.stata.com/manuals/dgenerate.pdf)
   - [egen](https://www.stata.com/manuals/degen.pdf)
-  - [An introduction to deleting variables and observations](https://www.stata.com/manuals/gsw12.pdf)
   - [destring](https://www.stata.com/manuals/ddestring.pdf)
+
+## Further material
+
+  - The [relevant part](https://www.ssc.wisc.edu/sscc/pubs/sfs/sfs-vars.htm) of SSCC's Stata for student course gives a detailed description of creating variables and labels.
+
+  - [Subsection 2.4](https://data.princeton.edu/stata/programming) of Germán Rodríguez's Stata Tutorial course discusses the generate, replace and recode commands.
+
+  - UCLA also has a [module](https://stats.oarc.ucla.edu/stata/modules/creating-and-recoding-variables/) on creating and recoding variables.
+
+  - Stata Press' Getting Started with Stata for Windows discusses the creation of new variables in [Chapter 11](https://www.stata.com/manuals/gsw11.pdf), and deals with deleting variables and observation in [Chapter 12](https://www.stata.com/manuals/gsw12.pdf).

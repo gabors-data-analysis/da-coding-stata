@@ -52,6 +52,22 @@ Do the following exercises step by step:
 
 ## Detailed online descriptions for the most important commands from the Stata website
 
-  - [An intro on combining datasets](https://www.stata.com/manuals/u23.pdf) 
   - [merge](https://www.stata.com/manuals/dmerge.pdf)
   - [append](https://www.stata.com/manuals/dappend.pdf)
+
+## Further material
+
+  - [Chapter 23](https://www.stata.com/manuals/u23.pdf) of the Stata User's Guide discusses the basic logic of combining datasets.
+
+  - The [4th lesson](https://datacarpentry.org/stata-economics/04-combine-data/index.html) of Data Carpentry's Economics Lesson with Stata course offers a detailed description of the topic with many exercises.
+
+  - UCLA has a [module](https://stats.oarc.ucla.edu/stata/modules/combining-data/) on appending and merging.
+
+
+
+
+
+
+
+
+

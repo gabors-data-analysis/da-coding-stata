@@ -53,3 +53,15 @@ Open the lec03HW.dta file which is a simulated dataset. Suppose that it is a sam
   - [duplicates](https://www.stata.com/manuals/dduplicates.pdf)
   - [labeling](https://www.stata.com/manuals/dlabel.pdf)
   - [making notes](https://www.stata.com/manuals/dnotes.pdf)
+
+## Further material
+
+  - Stata Press' Getting Started with Stata for Windows discusses the relevance of labeling in [Chapter 9](https://www.stata.com/manuals/gsw9.pdf), and describes the usage of log files in [Chapter 16](https://www.stata.com/manuals/gsw16.pdf).
+
+  - UCLA has a module on [labeling](https://stats.oarc.ucla.edu/stata/modules/labeling-data/).
+
+  - SSCC has a nice intro on [data structure](https://sscc.wisc.edu/sscc/pubs/intro_stata/intro_stata2.htm), and some parts of the [data wrangling module](https://sscc.wisc.edu/sscc/pubs/dws/data_wrangling_stata3.htm) are also relevant here.
+
+  - [Subsection 2.3](https://data.princeton.edu/stata/dataManagement) of Germán Rodríguez's Stata Tutorial course discusses the usage of labels and notes.
+
+

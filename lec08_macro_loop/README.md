@@ -40,3 +40,11 @@ In Exercise 2 you use the [wms_da_textbook-xsec.dta](https://osf.io/qx4fn) that 
   - [The forvalues loop](https://www.stata.com/manuals/pforvalues.pdf)
   - [The foreach loop](https://www.stata.com/manuals/pforeach.pdf)
   - [Stored results](https://www.stata.com/manuals/rstoredresults.pdf)
+
+## Further material
+
+  - The [relevant part](https://sscc.wisc.edu/sscc/pubs/stata_prog1.htm) of SSCC's Stata for student course gives a detailed description of macros and loops.
+
+  - The [6th lesson](https://datacarpentry.org/stata-economics/06-loops/index.html) of Data Carpentry's Economics Lesson with Stata course offers a detailed description of loops with many exercises.
+
+  - The first part of [Section 4](https://data.princeton.edu/stata/programming) of Germán Rodríguez's Stata Tutorial course describes macros and loops. The second part of the section is also worth reading since it containts further elements of Stata programming.

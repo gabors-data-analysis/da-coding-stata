@@ -1,13 +1,5 @@
 # Lecture 01: The boring stuff
 
-## About this lecture series
-
-This series of lectures offers a brief introduction to Stata. The series consists of 12+1 lectures, including a summary lecture. The structure tries to follow the structure of the book, although there are of course some differences: the main organization principle of the lectures is the logic of Stata, not necessary the logic of the book. After going through the lectures, you will be able to reproduce the results of the first two parts of the book (Data Exploration, and Regression Analysis) in Stata. Moreover, you will hopefully also understand the language of Stata enough to be able to go on in the book, and do the exercises in the second two parts on your own.
-
-Note that in the lectures I use Stata 14, however, all the elements discussed here are compatible forward (and in most cases backward) as well.
-
-This first lecture is boring, but unfortunately unavoidable. I tried to be as brief as possible here.
-
 ## Motivation
 
 Building a foundation is boring and its result is invisible since it is covered by the house itself. However, great buildings cannot be built on a weak foundation. So, in this lecture we lay down the necessary foundations in order to be able to build the great walls of Stata. We consider the most important concepts that help us becoming a Stata programmer. This first lecture is boring, but necessary for understanding later building blocks.
@@ -71,3 +63,21 @@ A detailed description of the Stata language can be read in the User’s Guide, in
 ## Getting help
 
 There are many ways to get help if you stall. Stata has a great help menu (you can open the help menu of a command typing help and the name of the command, or you can also look for keywords or whole sentences using the search command). Stata also presents error messages and error codes if something goes wrong. You can also find an infinite amount of [documentation](https://www.stata.com/features/documentation/) and other [resources](https://www.stata.com/links/) on Stata's website, and the official [Youtube](https://www.youtube.com/user/statacorp) page of Stata is also really helpful.
+
+## Further material
+
+  - Stata Press' Getting Started with Stata for Windows describes the Stata interface in [Chapter 2](https://www.stata.com/manuals/gsw2.pdf), and give tips on getting help in [Chapter 4](https://www.stata.com/manuals/gsw4.pdf).
+
+  - The Stata User Guide introduces students to the usage of do files in [Chapter 16](https://www.stata.com/manuals/u16.pdf).
+
+  - SSCC has many useful intro modules:
+     - Some advice to take according to [do file creation](https://www.ssc.wisc.edu/sscc/pubs/sfs/sfs-do_files.htm).
+     - Some [other pieces](https://www.ssc.wisc.edu/sscc/pubs/sfs/sfs-comments.htm) of do file-related advice.
+     - A description of the [Stata interface](https://www.ssc.wisc.edu/sscc/pubs/sfs/sfs-ui.htm).
+     - Some general notes on the [logic of syntaxes](https://www.ssc.wisc.edu/sscc/pubs/sfs/sfs-syntax.htm).
+
+  - UCLA's [notes](https://stats.oarc.ucla.edu/stata/modules/getting-help-using-stata/) on getting help.
+
+  - It is also worth checking the first 4 sections of Kurt Schmidheiny's [notes](https://www.schmidheiny.name/teaching/stataguide2up.pdf) about the Stata environment, getting help, and additions.
+
+
