@@ -8,7 +8,7 @@
 
 *************** The default folder
 *** Defining the default folder
-cd "\bekeskezdi_stata\lec03_preparation\"
+cd "C:\bekeskezdi_stata\lec03_preparation\"
 
 *************** Logging
 *** Preparation (and also the analysis later) should be done in a way that it is easy to trace,...

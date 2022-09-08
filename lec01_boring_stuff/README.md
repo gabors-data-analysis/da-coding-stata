@@ -64,6 +64,10 @@ A detailed description of the Stata language can be read in the User’s Guide, in
 
 There are many ways to get help if you stall. Stata has a great help menu (you can open the help menu of a command typing help and the name of the command, or you can also look for keywords or whole sentences using the search command). Stata also presents error messages and error codes if something goes wrong. You can also find an infinite amount of [documentation](https://www.stata.com/features/documentation/) and other [resources](https://www.stata.com/links/) on Stata's website, and the official [Youtube](https://www.youtube.com/user/statacorp) page of Stata is also really helpful.
 
+## User-written commands
+
+There are a huge amount of official commands, which are installed with Stata automatically. Although, there are many [user-written](https://www.stata.com/features/community-contributed-features/) commands as well, which is needed to be installed one-by-one by the user. Many of these user-written commands are stored at the [SSC Archive](https://ideas.repec.org/s/boc/bocode.html), and can be installed using the ssc install command. Non-SSC user-written commands should be looked for first (using the findit command), and then they can be installed.
+
 ## Further material
 
   - Stata Press' Getting Started with Stata for Windows describes the Stata interface in [Chapter 2](https://www.stata.com/manuals/gsw2.pdf), and give tips on getting help in [Chapter 4](https://www.stata.com/manuals/gsw4.pdf).
@@ -75,9 +79,11 @@ There are many ways to get help if you stall. Stata has a great help menu (you c
      - Some [other pieces](https://www.ssc.wisc.edu/sscc/pubs/sfs/sfs-comments.htm) of do file-related advice.
      - A description of the [Stata interface](https://www.ssc.wisc.edu/sscc/pubs/sfs/sfs-ui.htm).
      - Some general notes on the [logic of syntaxes](https://www.ssc.wisc.edu/sscc/pubs/sfs/sfs-syntax.htm).
+     - A detailed description of the [user-written commands](https://sscc.wisc.edu/sscc/pubs/4-16.htm).
 
   - UCLA's [notes](https://stats.oarc.ucla.edu/stata/modules/getting-help-using-stata/) on getting help.
 
   - It is also worth checking the first 4 sections of Kurt Schmidheiny's [notes](https://www.schmidheiny.name/teaching/stataguide2up.pdf) about the Stata environment, getting help, and additions.
+
 
 

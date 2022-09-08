@@ -19,7 +19,7 @@ Comments are really welcome in email or as a GitHub issue.
 
 This series of lectures offers a brief introduction to Stata, containing 12+1 lectures, including a summary lecture. The course serves as an introduction to the Stata programming language and software environment for data exploration, data wrangling, data analysis, and visualization.  The structure tries to follow the structure of the [textbook](https://gabors-data-analysis.com/), although there are of course some differences: the main organization principle of the lectures is the logic of Stata, not necessary the logic of the book. After going through the lectures, students will be able to reproduce the results of the first two parts of the textbook (Data Exploration, and Regression Analysis) in Stata. Moreover, they will hopefully also understand the language of Stata enough to be able to go on in the textbook, and do the exercises in the second two parts on their own.
 
-Note that in the lectures I use ***Stata 14**, however, all the elements discussed here are compatible forward (and in most cases backward) as well.
+Note that in the lectures I use **Stata 14**, however, all the elements discussed here are compatible forward (and in most cases backward) as well.
 
 Lectures 1 to 9 - complementing [Part I: Data Exploration (Chapter 1-6)](https://gabors-data-analysis.com/chapters/#part-i-data-exploration) - focus the logic of the Stata language, data preparation and wrangling, exploratory data amaéysis, and hypothesis testing. Please note that the first lecture is boring, but unfortunately unavoidable. I tried to be as brief as possible there.
 
