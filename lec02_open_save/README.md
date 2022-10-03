@@ -23,7 +23,7 @@ After successfully completing the code in `lecture02_opensave.do` students shoul
 
 ## Lecture Time
 
-Ideal overall time: **30mins**.
+Ideal overall time: **30 mins**.
 
 ## Homework
 

@@ -25,7 +25,6 @@ After successfully completing the code in `lecture05_eda.do` students should be 
 
   - Calculate standard measures of central value and spread (mean, minimum, maximum, median, quantiles, mode, range, interquartile range, standard deviation, variance etc.).
   - Make histograms, box plots and violin plots (without scaffolding since we discuss it in a latter lecture.)
-  - Deal with subsamples using the if condition and the bysort prefix.
 
 ## Datasets used
 
@@ -33,18 +32,17 @@ After successfully completing the code in `lecture05_eda.do` students should be 
 
 ## Lecture Time
 
-Ideal overall time: **60mins**.
+Ideal overall time: **35 mins**.
 
 ## Homework
 
 *Type*: quick practice, approx 25 mins
 
-In this homework you are invited to do some exploratory data analysis on the Hotels in Vienna dataset. Your task is to reproduce some results of the case studies of Chapter 3 by doing the following exercises.
-  - Define a default folder and open the dataset.
+In this homework you are invited to do some exploratory data analysis on the Hotels in Vienna dataset. Do the following exercises:
   - Determine the number of observations and variables.
-  - Reproduce figures 3.1 (pp. 63), 3.2 (pp. 64), 3.3 (pp. 64), and 3.4 (pp 67). Do not bother with the scaffolding now.
-  - Do the sample focusing based on the histograms. You can find its steps on page 68. To remove observations from the sample you will need the drop command. However, we have not discussed this command yet, you are invited to figure out its basic usage using the help menu, by typing: help drop. Combining drop with the if condition you can easily remove the unneeded observations.
-  - Calculate the most important descriptive statistics (find them in Table 3.5 on pp. 74) for the price and distance variable. Also visualize the results using box plots or violin plots.
+  - Create two histograms of accomodation types: one with frequencies, and anozher one with percentages.
+  - Reproduce figures 3.1 (pp. 63), and 3.3 (pp. 64) for the whole sample (in the textbook we use only the data of hotels, so the number of observations is only 264).
+  - Calculate the most important descriptive statistics (find them in Table 3.5 on pp. 74) for the price and distance variables. Also visualize the results using box plots or violin plots.
 
 
 ## Detailed online descriptions for the most important commands from the Stata website
@@ -54,14 +52,11 @@ In this homework you are invited to do some exploratory data analysis on the Hot
   - [tabulate oneway](https://www.stata.com/manuals/rtabulateoneway.pdf)
   - [tabulate twoway](https://www.stata.com/manuals/rtabulatetwoway.pdf)
   - [tabulate, summarize](https://www.stata.com/manuals/rtabulatesummarize.pdf)
-  - [by and bysort](https://www.stata.com/manuals/dby.pdf)
   - [histogram](https://www.stata.com/manuals/dby.pdf)
   - [density plot](https://www.stata.com/manuals16/rkdensity.pdf)
   - [box plot](https://www.stata.com/manuals16/g-2graphbox.pdf)
 
 
 ## Further material
-  
-  - UCLA offers a module on the [if condition](https://stats.oarc.ucla.edu/stata/modules/using-if-with-stata-commands/).
 
   - The [relevant part](https://sscc.wisc.edu/sscc/pubs/intro_stata/intro_stata5.htm) of SSCC's Stata for student course presents a description of some summary statistics commands.

@@ -23,7 +23,7 @@ After successfully completing the code in `lecture04_reshape.do` students should
 
 ## Lecture Time
 
-Ideal overall time: **20mins**.
+Ideal overall time: **20 mins**.
 
 ## Homework
 

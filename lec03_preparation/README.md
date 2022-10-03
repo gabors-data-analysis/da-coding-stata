@@ -28,7 +28,7 @@ After successfully completing the code in `lecture03_preparation.do` students sh
 
 ## Lecture Time
 
-Ideal overall time: **30mins**.
+Ideal overall time: **30 mins**.
 
 ## Homework
 
