@@ -76,7 +76,7 @@ The following table shows a brief summary of the lectures: what is the type of t
 | PART II. | | | |
 | [lecture12-regression_basics](https://github.com/gabors-data-analysis/da-coding-stata/tree/main/lec12_regression_basics)| Basics of regressions: fitting, predicting, dummy variables and interaction terms. | [Chapter 07, 7.A1, 7.A2, and 7.A3: Finding a good deal among hotels with simple regression](https://gabors-data-analysis.com/casestudies/#ch07a-finding-a-good-deal-among-hotels-with-simple-regression) | [hotels-vienna](https://gabors-data-analysis.com/datasets/#hotels-vienna) |
 | [lecture13-presenting_regresults](https://github.com/gabors-data-analysis/da-coding-stata/tree/main/lec13_presenting_regresults) | [Chapter 10, 10.A1: Understanding the gender difference in earnings](https://gabors-data-analysis.com/casestudies/#ch10a-understanding-the-gender-difference-in-earnings) | [cps-earnings](https://gabors-data-analysis.com/datasets/#cps-earnings)|
-| [lecture14-TSdata](https://github.com/gabors-data-analysis/da-coding-stata/tree/main/lec12_TSdata)| Basics of time series data commands. | Chapter 12, 12.A1: Returns on a company stock and market returns](https://gabors-data-analysis.com/casestudies/#ch12a-returns-on-a-company-stock-and-market-returns) | [sp500](https://gabors-data-analysis.com/datasets/#sp500)|
+| [lecture14-TSdata](https://github.com/gabors-data-analysis/da-coding-stata/tree/main/lec1_TSdata)| Basics of time series data commands. | [Chapter 12, 12.A1: Returns on a company stock and market returns](https://gabors-data-analysis.com/casestudies/#ch12a-returns-on-a-company-stock-and-market-returns) | [sp500](https://gabors-data-analysis.com/datasets/#sp500)|
 
 
 ## Found an error or have a suggestion?
