@@ -26,7 +26,7 @@ This series of lectures offers a brief introduction to Stata, containing 13+1 le
 
 Note that in the lectures I use **Stata 14**, however, all the elements discussed here are compatible forward (and in most cases backward) as well.
 
-Lectures 1 to 11 - complementing [Part I: Data Exploration (Chapter 1-6)](https://gabors-data-analysis.com/chapters/#part-i-data-exploration) - focus the logic of the Stata language, data preparation and wrangling, exploratory data amaéysis, and hypothesis testing. Please note that the first lecture is boring, but unfortunately unavoidable. I tried to be as brief as possible there.
+Lectures 1 to 11 - complementing [Part I: Data Exploration (Chapter 1-6)](https://gabors-data-analysis.com/chapters/#part-i-data-exploration) - focus the logic of the Stata language, data preparation and wrangling, exploratory data analysis, and hypothesis testing. Please note that the first lecture is boring, but unfortunately unavoidable. I tried to be as brief as possible there.
 
 Lecture 12 to 14 - complementing [PART II: Regression Analysis (Chapter 7-12)](https://gabors-data-analysis.com/chapters/#part-ii-regression-analysis) - focus on the basics of regression analysis, the presentation of regression results, and visualization.
 
